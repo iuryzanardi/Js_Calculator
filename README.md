@@ -1,10 +1,9 @@
 <h1>Simple JavaScript Calculator</h1>
 <h2>Overview</h2>
-<p>
-    This is a simple calculator built with HTML, CSS, and JavaScript. The project was developed as part of my personal journey to improve my JavaScript skills. It is a basic implementation that allows users to perform simple arithmetic operations such as addition snf subtraction.
+
+<p>This is a simple calculator built with HTML, CSS, and JavaScript. The project was developed as part of my personal journey to improve my JavaScript skills. It is a basic implementation that allows users to perform simple arithmetic operations such as addition and subtraction.</p>
     
-    The primary goal of this project was to practice fundamental JavaScript concepts such as DOM manipulation, event handling, and logical operations.
-</p>
+<p>The primary goal of this project was to practice fundamental JavaScript concepts such as DOM manipulation, event handling, and logical operations.</p>
 
 <a href="https://gifyu.com/image/SJoJj"><img src="https://s7.gifyu.com/images/SJoJj.gif" alt="calculatorgif (1)" border="0" /></a>
 
