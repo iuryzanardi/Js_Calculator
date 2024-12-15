@@ -5,7 +5,7 @@
     
 <p>The primary goal of this project was to practice fundamental JavaScript concepts such as DOM manipulation, event handling, and logical operations.</p>
 
-<a href="https://gifyu.com/image/SJoJj"><img src="https://s7.gifyu.com/images/SJoJj.gif" alt="calculatorgif (1)" border="0" /></a>
+<img src="/gif/calculatorgif.gif" alt="calculator gif"/></a>
 
 <h1>Technologies Used</h1>
 <ul>
@@ -13,8 +13,6 @@
     <li>CSS for styling the layout</li>
     <li>JavaScript for implementing the calculator logic</li>
 </ul>
-
-<h2>How to Use</h2>
 
 <h2>How to Use</h2>
     <ol>
