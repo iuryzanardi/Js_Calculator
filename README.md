@@ -5,7 +5,7 @@
     
 <p>The primary goal of this project was to practice fundamental JavaScript concepts such as DOM manipulation, event handling, and logical operations.</p>
 
-<img src="https://s7.gifyu.com/images/SJoJj.gif" alt="calculatorgif (1)" border="0" />
+<img src="https://s7.gifyu.com/images/SJoJj.gif" alt="calculatorgif"/>
 
 <h1>Technologies Used</h1>
 <ul>
