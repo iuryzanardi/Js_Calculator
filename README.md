@@ -5,7 +5,12 @@
     
 <p>The primary goal of this project was to practice fundamental JavaScript concepts such as DOM manipulation, event handling, and logical operations.</p>
 
-<img src="/gif/calculatorgif.gif" alt="calculator gif"/></a>
+<a>
+    Click here to see!
+    <img src="/gif/calculatorgif.gif" alt="calculator gif"/>
+</a>
+![aa4](/gif/calculatorgif.gif)
+&nbsp;
 
 <h1>Technologies Used</h1>
 <ul>
