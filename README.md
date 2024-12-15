@@ -15,6 +15,8 @@
 </ul>
 
 <h2>How to Use</h2>
+
+<h2>How to Use</h2>
     <ol>
         <li><strong>Clone this repository</strong> to your local machine:
             <pre><code>git clone https://github.com/iuryzanardi/Js_Calculator.git</code></pre>
